@@ -1,0 +1,5 @@
+seed,method_id,method,collision_rmst_steps,max_step_count,max_step_completion_rate,episodes,source_file,source_status
+42,epsilon,Epsilon-Greedy,90.82002853533584,0,0.0,300,04_data/raw/baselines/seed_42/epsilon/all_episode_results.csv,original_23_seed_archive
+42,noisy,NoisyNet DQN,90.55164360014963,0,0.0,300,04_data/raw/baselines/seed_42/noisy/all_episode_results.csv,original_23_seed_archive
+42,rnd,DQN + RND,92.42371482673528,0,0.0,300,04_data/raw/baselines/seed_42/rnd/all_episode_results.csv,original_23_seed_archive
+42,safetypool,SafetyPool,252.30626980846074,0,0.0,300,04_data/raw/safetypool/seed_42/all_episode_results.csv,original_23_seed_archive

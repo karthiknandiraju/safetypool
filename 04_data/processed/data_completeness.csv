@@ -1,0 +1,93 @@
+seed,method_id,method,status,test_episodes,first_scenario_seed,last_scenario_seed,source_file,source_status
+3,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_3/epsilon/all_episode_results.csv,original_23_seed_archive
+3,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_3/noisy/all_episode_results.csv,original_23_seed_archive
+3,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_3/rnd/all_episode_results.csv,original_23_seed_archive
+3,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_3/all_episode_results.csv,original_23_seed_archive
+5,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_5/epsilon/all_episode_results.csv,original_23_seed_archive
+5,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_5/noisy/all_episode_results.csv,original_23_seed_archive
+5,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_5/rnd/all_episode_results.csv,original_23_seed_archive
+5,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_5/all_episode_results.csv,original_23_seed_archive
+7,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_7/epsilon/all_episode_results.csv,original_23_seed_archive
+7,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_7/noisy/all_episode_results.csv,original_23_seed_archive
+7,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_7/rnd/all_episode_results.csv,original_23_seed_archive
+7,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_7/all_episode_results.csv,original_23_seed_archive
+9,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_9/epsilon/all_episode_results.csv,original_23_seed_archive
+9,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_9/noisy/all_episode_results.csv,original_23_seed_archive
+9,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_9/rnd/all_episode_results.csv,original_23_seed_archive
+9,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_9/all_episode_results.csv,original_23_seed_archive
+13,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_13/epsilon/all_episode_results.csv,original_23_seed_archive
+13,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_13/noisy/all_episode_results.csv,original_23_seed_archive
+13,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_13/rnd/all_episode_results.csv,original_23_seed_archive
+13,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_13/all_episode_results.csv,original_23_seed_archive
+17,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_17/epsilon/all_episode_results.csv,original_23_seed_archive
+17,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_17/noisy/all_episode_results.csv,original_23_seed_archive
+17,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_17/rnd/all_episode_results.csv,original_23_seed_archive
+17,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_17/all_episode_results.csv,original_23_seed_archive
+19,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_19/epsilon/all_episode_results.csv,original_23_seed_archive
+19,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_19/noisy/all_episode_results.csv,original_23_seed_archive
+19,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_19/rnd/all_episode_results.csv,original_23_seed_archive
+19,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_19/all_episode_results.csv,original_23_seed_archive
+29,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_29/epsilon/all_episode_results.csv,original_23_seed_archive
+29,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_29/noisy/all_episode_results.csv,original_23_seed_archive
+29,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_29/rnd/all_episode_results.csv,original_23_seed_archive
+29,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_29/all_episode_results.csv,original_23_seed_archive
+31,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_31/epsilon/all_episode_results.csv,original_23_seed_archive
+31,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_31/noisy/all_episode_results.csv,original_23_seed_archive
+31,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_31/rnd/all_episode_results.csv,original_23_seed_archive
+31,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_31/all_episode_results.csv,original_23_seed_archive
+33,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_33/epsilon/all_episode_results.csv,original_23_seed_archive
+33,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_33/noisy/all_episode_results.csv,original_23_seed_archive
+33,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_33/rnd/all_episode_results.csv,original_23_seed_archive
+33,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_33/all_episode_results.csv,original_23_seed_archive
+38,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_38/epsilon/all_episode_results.csv,original_23_seed_archive
+38,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_38/noisy/all_episode_results.csv,original_23_seed_archive
+38,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_38/rnd/all_episode_results.csv,original_23_seed_archive
+38,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_38/all_episode_results.csv,original_23_seed_archive
+42,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_42/epsilon/all_episode_results.csv,original_23_seed_archive
+42,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_42/noisy/all_episode_results.csv,original_23_seed_archive
+42,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_42/rnd/all_episode_results.csv,original_23_seed_archive
+42,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_42/all_episode_results.csv,original_23_seed_archive
+45,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_45/epsilon/all_episode_results.csv,original_23_seed_archive
+45,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_45/noisy/all_episode_results.csv,original_23_seed_archive
+45,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_45/rnd/all_episode_results.csv,original_23_seed_archive
+45,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_45/all_episode_results.csv,original_23_seed_archive
+48,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_48/epsilon/all_episode_results.csv,original_23_seed_archive
+48,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_48/noisy/all_episode_results.csv,original_23_seed_archive
+48,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_48/rnd/all_episode_results.csv,original_23_seed_archive
+48,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_48/all_episode_results.csv,original_23_seed_archive
+54,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_54/epsilon/all_episode_results.csv,original_23_seed_archive
+54,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_54/noisy/all_episode_results.csv,original_23_seed_archive
+54,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_54/rnd/all_episode_results.csv,original_23_seed_archive
+54,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_54/all_episode_results.csv,original_23_seed_archive
+63,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_63/epsilon/all_episode_results.csv,original_23_seed_archive
+63,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_63/noisy/all_episode_results.csv,original_23_seed_archive
+63,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_63/rnd/all_episode_results.csv,original_23_seed_archive
+63,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_63/all_episode_results.csv,original_23_seed_archive
+67,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_67/epsilon/all_episode_results.csv,original_23_seed_archive
+67,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_67/noisy/all_episode_results.csv,original_23_seed_archive
+67,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_67/rnd/all_episode_results.csv,original_23_seed_archive
+67,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_67/all_episode_results.csv,original_23_seed_archive
+69,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_69/epsilon/all_episode_results.csv,original_23_seed_archive
+69,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_69/noisy/all_episode_results.csv,original_23_seed_archive
+69,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_69/rnd/all_episode_results.csv,original_23_seed_archive
+69,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_69/all_episode_results.csv,original_23_seed_archive
+77,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_77/epsilon/all_episode_results.csv,original_23_seed_archive
+77,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_77/noisy/all_episode_results.csv,original_23_seed_archive
+77,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_77/rnd/all_episode_results.csv,original_23_seed_archive
+77,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_77/all_episode_results.csv,original_23_seed_archive
+85,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_85/epsilon/all_episode_results.csv,original_23_seed_archive
+85,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_85/noisy/all_episode_results.csv,original_23_seed_archive
+85,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_85/rnd/all_episode_results.csv,original_23_seed_archive
+85,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_85/all_episode_results.csv,original_23_seed_archive
+94,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_94/epsilon/all_episode_results.csv,original_23_seed_archive
+94,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_94/noisy/all_episode_results.csv,original_23_seed_archive
+94,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_94/rnd/all_episode_results.csv,original_23_seed_archive
+94,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_94/all_episode_results.csv,original_23_seed_archive
+108,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_108/epsilon/all_episode_results.csv,original_23_seed_archive
+108,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_108/noisy/all_episode_results.csv,original_23_seed_archive
+108,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_108/rnd/all_episode_results.csv,original_23_seed_archive
+108,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_108/all_episode_results.csv,original_23_seed_archive
+111,epsilon,Epsilon-Greedy,PASS,300,100000,100299,04_data/raw/baselines/seed_111/epsilon/all_episode_results.csv,original_23_seed_archive
+111,noisy,NoisyNet DQN,PASS,300,100000,100299,04_data/raw/baselines/seed_111/noisy/all_episode_results.csv,original_23_seed_archive
+111,rnd,DQN + RND,PASS,300,100000,100299,04_data/raw/baselines/seed_111/rnd/all_episode_results.csv,original_23_seed_archive
+111,safetypool,SafetyPool,PASS,300,100000,100299,04_data/raw/safetypool/seed_111/all_episode_results.csv,original_23_seed_archive

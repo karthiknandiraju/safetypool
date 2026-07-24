@@ -1,0 +1,35 @@
+{
+  "aggregate_figure_files": 8,
+  "aggregate_graphs": 4,
+  "bootstrap_samples": 20000,
+  "bootstrap_seed": 20260723,
+  "comparison_root": "05_results/comparisons",
+  "expected_seed_method_files": 92,
+  "expected_test_episodes_per_seed_method": 300,
+  "expected_total_test_episodes_per_method": 6900,
+  "figure_formats": [
+    "300-dpi PNG",
+    "vector PDF"
+  ],
+  "generated_per_seed_figure_directories": 23,
+  "methods": {
+    "epsilon": "Epsilon-Greedy",
+    "noisy": "NoisyNet DQN",
+    "rnd": "DQN + RND",
+    "safetypool": "SafetyPool"
+  },
+  "paper_seed_count": 23,
+  "per_seed_figure_files": 92,
+  "per_seed_graphs": 46,
+  "rmst_tau": 500,
+  "seed_17_source": {
+    "source_file": "04_data/raw/safetypool/seed_17/all_episode_results.csv",
+    "status": "original_23_seed_archive"
+  },
+  "status": "PASS",
+  "test_scenario_range": [
+    100000,
+    100299
+  ],
+  "validated_seed_method_files": 92
+}
