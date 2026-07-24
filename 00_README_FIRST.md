@@ -1,4 +1,4 @@
-# SafetyPool IEEE-Style Code and Results Package
+# SafetyPool Code and Results Package
 
 This artifact accompanies the paper **“SafetyPool for Collision-Aware Deep
 Reinforcement Learning.”** It is organized as an IEEE-style reproducibility
