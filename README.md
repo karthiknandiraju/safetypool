@@ -167,12 +167,3 @@ For each strategy, the script calculates a 10-episode rolling mean of training e
 ```
 
 The convergence episode is the first episode at which the rolling training mean reaches or exceeds the threshold. Convergence time is the sum of the recorded training episode wall times through that episode.
-
-## IEEE figure format
-
-- JPEG only; no PDF files are created.
-- Default resolution: 600 DPI.
-- White background and serif typography.
-- Color-blind-safe colors, black borders, and hatch patterns support grayscale printing.
-- Explicit block labels such as `1–100`, `101–200`, and `201–300` are used instead of abbreviated labels.
-- Single-column figures use approximately 3.5-inch width; detailed figures use approximately 7.16-inch double-column width.
