@@ -1,3 +1,8 @@
+  
+## Video
+
+https://youtu.be/EQdsNJjQBuQ
+
 # SafetyPool Code and Results Package
 
 This artifact accompanies the paper **“SafetyPool for Collision-Aware Deep
@@ -130,3 +135,5 @@ For the modular policy design, read
 - IEEE does not mandate one universal code-directory hierarchy. “IEEE-style”
   here means a reviewer-oriented reproducibility layout with explicit
   provenance, protocol, data, code, results, and integrity checks.
+
+
