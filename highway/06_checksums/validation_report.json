@@ -1,0 +1,25 @@
+{
+  "package": "highway",
+  "source_archive": "e89afb7f-a39f-4d1d-8fc7-06c60af779c0.zip",
+  "source_directory": "CombinedDataHighwayMeta",
+  "highway_only": true,
+  "seed_directory_count": 23,
+  "per_seed_episode_file_count": 23,
+  "episode_rows_across_seed_files": 27600,
+  "episode_rows_in_combined_file": 27600,
+  "methods": {
+    "epsilon": 6900,
+    "noisy": 6900,
+    "rnd": 6900,
+    "safetypool": 6900
+  },
+  "test_episodes_per_method_seed": 300,
+  "rmst_horizon_steps": 500,
+  "excluded_from_package": [
+    "data/metadrive",
+    "framework/metadrive",
+    "MetaDrive-only figures",
+    "MetaDrive-only policies"
+  ],
+  "validation_status": "passed"
+}
