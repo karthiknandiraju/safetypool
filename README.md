@@ -4,10 +4,6 @@ This project compares **Epsilon Greedy** and **Median 50** exploration for auton
 
 The analysis and plotting script are deliberately restricted to these two strategies. Rows belonging to any other experiment in the CSV are ignored and cannot appear in the figures or calculated statistics.
 
-## Video
-
-https://youtu.be/EQdsNJjQBuQ
-
 ## Research objective
 
 The experiment tests whether directing exploratory actions toward the lower half of the current action-value distribution changes convergence, reward, stability, and driving performance relative to uniformly random exploration.
